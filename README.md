@@ -53,7 +53,7 @@ Generates `.funscript` files next to the input file:
 
 ### Support Development
 
-NekoDancer is open source and free to use. If you find it useful, consider purchasing the [pre-built executable](https://beyondblackwall.com/nekodancer-cli) to support ongoing development.
+NekoDancer is open source and free to use. If you find it useful, consider purchasing the [pre-built executable](https://beyondblackwall.com/nekodancer) to support ongoing development.
 
 `NekoDancer.exe` is a ready-to-run Windows CLI tool — no Python environment required. Just download, unzip, and use it directly from any command prompt or integrate it into your workflow.
 
